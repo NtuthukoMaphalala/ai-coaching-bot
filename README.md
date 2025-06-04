@@ -32,12 +32,3 @@ This project showcases an **AI-driven coaching assistant** built with **Microsof
 | GitHub Actions + Azure Pipelines | CI/CD deployment workflow       |
 
 ---
-
-## 🧱 Architecture
-
-```text
-User ↔ Microsoft Copilot ↔ Azure OpenAI
-                          ↘
-                    Azure Cognitive Services
-                          ↘
-                     External Knowledge Base
