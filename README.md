@@ -1,7 +1,7 @@
 # 🧠 Microsoft Copilot AI Coaching Assistant
 
 [![Live Demo](https://img.shields.io/badge/Demo-Link-blue)](https://ntuthukomaphalala.github.io/ai-coaching-bot)  
-_A practical assessment project for the Software Developer position at
+_A practical assessment project for the Software Developer position at_
 
 ---
 
